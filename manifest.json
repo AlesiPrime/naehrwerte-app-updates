@@ -1,13 +1,13 @@
 {
-  "app": {
-    "versionCode": 18,
-    "versionName": "1.17",
-    "apkUrl": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.17/Naehrwerte-1.17-release.apk",
-    "notes": "9 neue Funktionen: Mengeneinheiten-Umrechner, Chargen-/Los-Nummer aufs Etikett, Einkaufsliste aus Rezept, Rezept-Kategorien, Nährwert-Vergleich, %NRV auf Etikett, MHD-Rechner, Dark Mode, Home-Screen-Widget."
-  },
-  "data": {
-    "version": "2026.08.4",
-    "url": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.13/nutrition_2026.08.4.db",
-    "sha256": "e700f40eef35173f1ff70d6c18d45953c6916f2df6b3564171d6c48531b5d04c"
-  }
+    "app": {
+          "versionCode": 19,
+          "versionName": "1.18",
+          "apkUrl": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.18/Naehrwerte-1.18-release.apk",
+          "notes": "5 neue Funktionen: Etikett als PDF, QR-Code aufs Etikett, MHD-Erinnerung, Foto pro Rezept, Rundung nach LMIV Anhang XV."
+    },
+    "data": {
+          "version": "2026.08.4",
+          "url": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.13/nutrition_2026.08.4.db",
+          "sha256": "e700f40eef35173f1ff70d6c18d45953c6916f2df6b3564171d6c48531b5d04c"
+    }
 }
