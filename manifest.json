@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 16,
-    "versionName": "1.15",
-    "apkUrl": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.15/Naehrwerte-1.15-release.apk",
-    "notes": "QUID-Zutatenliste, Allergen-Erkennung, Etikett-Export, Skalierung, Backup/Restore, Kostenkalkulation, Suche, zuletzt verwendete Zutaten, Rezept duplizieren, automatisches Backup."
+    "versionCode": 17,
+    "versionName": "1.16",
+    "apkUrl": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.16/Naehrwerte-1.16-release.apk",
+    "notes": "Update-Pfad im Code fest verankert (nicht mehr änderbar), Copyright-Hinweis ergänzt."
   },
   "data": {
     "version": "2026.08.4",
