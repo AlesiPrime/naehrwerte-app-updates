@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 17,
-    "versionName": "1.16",
-    "apkUrl": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.16/Naehrwerte-1.16-release.apk",
-    "notes": "Update-Pfad im Code fest verankert (nicht mehr änderbar), Copyright-Hinweis ergänzt."
+    "versionCode": 18,
+    "versionName": "1.17",
+    "apkUrl": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.17/Naehrwerte-1.17-release.apk",
+    "notes": "9 neue Funktionen: Mengeneinheiten-Umrechner, Chargen-/Los-Nummer aufs Etikett, Einkaufsliste aus Rezept, Rezept-Kategorien, Nährwert-Vergleich, %NRV auf Etikett, MHD-Rechner, Dark Mode, Home-Screen-Widget."
   },
   "data": {
     "version": "2026.08.4",
