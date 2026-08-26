@@ -6,8 +6,8 @@
           "notes": "5 neue Funktionen: Etikett als PDF, QR-Code aufs Etikett, MHD-Erinnerung, Foto pro Rezept, Rundung nach LMIV Anhang XV."
     },
     "data": {
-          "version": "2026.08.4",
-          "url": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.13/nutrition_2026.08.4.db",
-          "sha256": "e700f40eef35173f1ff70d6c18d45953c6916f2df6b3564171d6c48531b5d04c"
+            "version": "2026.08.5",
+            "url": "https://github.com/AlesiPrime/naehrwerte-app-updates/releases/download/v1.18/nutrition_2026.08.5.db",
+            "sha256": "7a88a2a87816a5ca7498add891af187e326c3e2a36f0527b8ee14ab183396d2c"
     }
 }
